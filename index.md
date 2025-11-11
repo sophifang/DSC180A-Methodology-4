@@ -1,4 +1,8 @@
-# DSC180A Methodology Assignment 4, Task 2
+---
+layout: default
+title: DSC180A Methodology Assignment 4, Task 2
+---
+
 Sophia Fang ([sofang@ucsd.edu](mailto:sofang@ucsd.edu))\
 Section B25 - Amitash Nanda
 
